@@ -2,6 +2,6 @@
 
 Tumour segmentation
 
-This project segmented a tumour from a brain MRI.
+This project segments a tumour from a brain MRI.
 
 Project done by Franck TROUILLEZ
